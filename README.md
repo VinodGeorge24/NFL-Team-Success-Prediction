@@ -5,6 +5,7 @@ Project Proposal: Predicting NFL Team Success Based on Performance Metrics (2002
 
 Source and Background of Data
 Dataset Source: The data is sourced from Kaggle’s NFL Team Stats (2002-2019) by ESPN.
+Link is here: https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn/data
 
 Background: This dataset spans multiple seasons of NFL data, featuring key performance statistics for teams like total yardage, turnovers, points scored, and possession time. With this data, we aim to predict team success (win/loss outcomes) and identify the most impactful factors on performance.
 
